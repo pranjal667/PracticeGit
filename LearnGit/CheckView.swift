@@ -9,7 +9,7 @@ import SwiftUI
 
 struct CheckView: View {
     var body: some View {
-        Text("This is a check view!")
+        Text("This is new check view after merging.")
     }
 }
 
